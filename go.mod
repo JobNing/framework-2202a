@@ -1,4 +1,4 @@
-module framework
+module github.com/JobNing/framework-2202a
 
 go 1.22.1
 
